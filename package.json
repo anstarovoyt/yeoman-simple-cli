@@ -16,7 +16,8 @@
     "generate"
   ],
   "dependencies": {
-    "yeoman-environment": "^1.0.1"
+    "yeoman-environment": "^1.0.1",
+    "inquirer": "^0.8.0"
   },
   "preferGlobal": true
 }
