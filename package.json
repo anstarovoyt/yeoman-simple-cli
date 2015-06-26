@@ -1,5 +1,5 @@
 {
-  "name": "yeoman-simple-cli",
+  "name": "yocln",
   "version": "1.0.0",
   "description": "Simple CLI for running yeoman generators",
   "license": "Apache-2.0",
